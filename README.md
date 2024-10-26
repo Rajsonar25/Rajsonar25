@@ -110,10 +110,11 @@
 <hr/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajsonar25&show_icons=true&locale=en&layout=compact" alt="rajsonar25" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajsonar25&" alt="rajsonar25" />
 </p>
 
 <p align="center">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rajsonar25&" alt="rajsonar25" />
+ 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=rajsonar25&show_icons=true&locale=en" alt="rajsonar25" />
   
 </p>
