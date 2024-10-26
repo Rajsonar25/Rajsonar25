@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/Rajsonar25/Rajsonar25/blob/main/Raj%20Sonar.png" alt="logo">
+</div>
+
 <h1 align="center">Hi 👋, I'm Raj Sonar</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
