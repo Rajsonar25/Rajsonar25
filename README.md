@@ -113,6 +113,7 @@
 </p>
 
 <p align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=rajsonar25&show_icons=true&locale=en" alt="rajsonar25" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajsonar25&" alt="rajsonar25" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=rajsonar25&show_icons=true&locale=en" alt="rajsonar25" />
+  
 </p>
