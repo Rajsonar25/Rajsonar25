@@ -77,6 +77,9 @@
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nestjs"  height="30"/> 
   </a> 
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="angular" height="30"/> 
+  </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django"  height="30"/> 
   </a> 
@@ -104,18 +107,23 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"  height="30"/> 
   </a> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="angular" height="30"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"  height="30"/> 
-  </a> 
+  
+  
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender"  height="30"/> 
   </a> 
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" height="30"/> 
   </a> 
+
+<h3>Operating Systems</h3>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"  height="30"/> 
+  </a> 
+  <a href="https://ubuntu.com/download/desktop/thank-you?version=24.04.1&architecture=amd64&lts=true" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"  height="30"/> 
+  </a> 
+
 </p>
 
 
