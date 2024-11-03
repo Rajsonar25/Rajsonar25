@@ -20,7 +20,7 @@
 <br/>
 <p align="left">
 <a href="https://twitter.com/rajsonar2504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajsonar2504" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raj sonar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj sonar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raj-sonar-9a6628291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj sonar" height="30" width="40" /></a>
 <a href="https://fb.com/raj sonar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raj sonar" height="30" width="40" /></a>
 <a href="https://instagram.com/raj_sonar_4621" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raj_sonar_4621" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@rmsstudio..7390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rmsstudio..7390" height="30" width="40" /></a>
